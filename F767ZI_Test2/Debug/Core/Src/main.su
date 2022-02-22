@@ -1,0 +1,4 @@
+main.cpp:73:6:void HAL_UARTEx_RxEventCallback(UART_HandleTypeDef*, uint16_t)	24	static
+main.cpp:113:5:int main()	8	static
+main.cpp:163:6:void SystemClock_Config()	88	static
+main.cpp:220:6:void Error_Handler()	8	static,ignoring_inline_asm
